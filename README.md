@@ -1,5 +1,7 @@
 **Step-by-Step Guide to Build Serverless File Sharing Platform**
+
 **Project Description:**
+
 The Serverless File Sharing Platform allows users to securely upload and download files via a simple HTTP API. It leverages AWS Lambda for serverless compute, API Gateway for RESTful API management, and Amazon S3 for durable and scalable object storage. Users can interact with the platform using any HTTP client (like Postman), making it versatile for various use cases that involve file sharing and storage.
 
 **Use Cases:**
@@ -9,9 +11,12 @@ File Distribution: Content creators can distribute files (e.g., software updates
 Collaborative Work: Teams can share project resources, documents, and data securely, facilitating collaboration across different locations.
 
 **Project Architecture:**
-<img width="569" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/b75528a0-e620-401b-97a3-58df53633fbc">
+
+<img width="500" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/b75528a0-e620-401b-97a3-58df53633fbc">
 
 **Steps to Build the Project:**
+
 **Prerequisites**
+
 AWS Account with appropriate permissions to create Lambda functions, API Gateway, and S3 buckets.
 
